@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567497942 source:c:\users\kuste\desktop\hebelgesetz_jk_mh\main.c
+	<stdio.h>
+	<stdlib.h>
+
